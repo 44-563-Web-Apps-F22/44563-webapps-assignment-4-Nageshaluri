@@ -68,24 +68,20 @@ table {
 tr:nth-child(even) {
     background-color: blueviolet;
 }
-.Phantis {
-    text-shadow: 10px 10px 2px black;
-
-    border: 1px solid;
-}
-
 .Phantis:hover {
     background-color: darkorchid;
-}
-.Scaphio {
     text-shadow: 10px 10px 2px black;
 
     border: 1px solid;
 }
+
 
 .Scaphio:hover {
     background-color: darkorchid;
+    text-shadow: 10px 10px 2px black;
+    border: 1px solid;
 }
+
 i{
     color: red;
     font-size: 100px !important;
@@ -95,8 +91,19 @@ ul.navbar-horizontal a {
     display:block;
     padding:30px;
     color: blue;
+   width: 30px;
 }
-
-link{size: 1000px;
-
+ul.navbar-horizontal a:hover {
+    background-color: rgb(85, 85, 85);
+    color:rgb(255, 255, 255);
+    }
+ul.navbar-horizontal li{
+    float: left;
+    background-color: blanchedalmond;
+    
 }
+ul.navbar-horizontal{
+    list-style-type:none;
+    margin: 15;
+}
+    
