@@ -68,3 +68,21 @@ table {
 tr:nth-child(even) {
     background-color: blueviolet;
 }
+.Phantis {
+    text-shadow: 10px 10px 2px black;
+
+    border: 1px solid;
+}
+
+.Phantis:hover {
+    background-color: darkorchid;
+}
+.Scaphio {
+    text-shadow: 10px 10px 2px black;
+
+    border: 1px solid;
+}
+
+.Scaphio:hover {
+    background-color: darkorchid;
+}
