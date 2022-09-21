@@ -86,3 +86,17 @@ tr:nth-child(even) {
 .Scaphio:hover {
     background-color: darkorchid;
 }
+i{
+    color: red;
+    font-size: 100px !important;
+}
+
+ul.navbar-horizontal a {
+    display:block;
+    padding:30px;
+    color: blue;
+}
+
+link{size: 1000px;
+
+}
