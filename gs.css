@@ -1,0 +1,39 @@
+.Scaphio {
+    font-style: italic;
+    font-size: 8px;
+    color: black;
+}
+
+.Phantis {
+    font-style: oblique;
+    font-size: 10px;
+    color: black;
+}
+
+.Both {
+    font-style: normal;
+    font-size: 9px;
+    color: black;
+}
+
+.Speech {
+    font-style: initial;
+    font-size: 8px;
+    color: black;
+}
+
+.Duet {
+    font-style: inherit;
+    font-size: 5px;
+    color: black;
+}
+
+.StageDirection {
+    font-style: unset;
+    background-color: lightpink;
+    font-size: 25px;
+}
+
+.StageDirection:hover {
+    background-color: lightblue;
+}
