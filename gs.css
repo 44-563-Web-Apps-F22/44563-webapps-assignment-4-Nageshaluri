@@ -37,3 +37,34 @@
 .StageDirection:hover {
     background-color: lightblue;
 }
+table,
+th,
+td {
+    border: 1px solid red;
+    margin: 0 40px 10px 0;
+    
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+td {
+    padding: 25px;
+}
+
+
+
+
+table {
+    width: 50px;
+    height: 25px;
+}
+
+tr:nth-child(even) {
+    background-color: blueviolet;
+}
